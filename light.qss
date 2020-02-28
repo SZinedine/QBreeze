@@ -890,6 +890,11 @@ QTreeView::branch:open:has-children:has-siblings:hover {
     image: url(:/qss_icons/light/branch_open-on.png);
 }
 
+QListView::item,
+QTreeView::item {
+    height: 24px;
+}
+
 QListView::item:!selected:hover,
 QTreeView::item:!selected:hover {
     background: #D6EDF9;
