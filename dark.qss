@@ -1,3 +1,8 @@
+/* for a darker style. replace these colors:
+    31363B  ->  1C1C1C
+    232629  ->  0F0F0F
+*/
+
 QToolTip {
     border: 1px solid #76797C;
     background-color: #5A7566;
@@ -304,11 +309,11 @@ QAbstractScrollArea {
 }
 
 QScrollBar:horizontal {
-    height: 15px;
-    margin: 3px 15px 3px 15px;
+    background-color: #2A2929;
+    height: 18px;
+    margin: 5px 15px 5px 15px;
     border: 1px transparent #2A2929;
     border-radius: 4px;
-    background-color: #2A2929;
 }
 
 QScrollBar::handle:horizontal {
@@ -319,36 +324,36 @@ QScrollBar::handle:horizontal {
 
 QScrollBar::add-line:horizontal {
     margin: 0px 3px 0px 3px;
-    border-image: url(:/qss_icons/dark/right_arrow_disabled.png);
-    width: 10px;
-    height: 10px;
+    border-image: url(:/qss_icons/dark/right_arrow.png);
+    width: 8px;
+    height: 11px;
     subcontrol-position: right;
     subcontrol-origin: margin;
 }
 
 QScrollBar::sub-line:horizontal {
     margin: 0px 3px 0px 3px;
-    border-image: url(:/qss_icons/dark/left_arrow_disabled.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/left_arrow.png);
+    width: 8px;
+    height: 11px;
     subcontrol-position: left;
     subcontrol-origin: margin;
 }
 
 QScrollBar::add-line:horizontal:hover,
 QScrollBar::add-line:horizontal:on {
-    border-image: url(:/qss_icons/dark/right_arrow.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/right_arrow-on.png);
+    width: 8px;
+    height: 11px;
     subcontrol-position: right;
     subcontrol-origin: margin;
 }
 
 QScrollBar::sub-line:horizontal:hover,
 QScrollBar::sub-line:horizontal:on {
-    border-image: url(:/qss_icons/dark/left_arrow.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/left_arrow-on.png);
+    width: 8px;
+    height: 11px;
     subcontrol-position: left;
     subcontrol-origin: margin;
 }
@@ -365,8 +370,8 @@ QScrollBar::sub-page:horizontal {
 
 QScrollBar:vertical {
     background-color: #2A2929;
-    width: 15px;
-    margin: 15px 3px 15px 3px;
+    width: 18px;
+    margin: 15px 5px 15px 5px;
     border: 1px transparent #2A2929;
     border-radius: 4px;
 }
@@ -379,36 +384,36 @@ QScrollBar::handle:vertical {
 
 QScrollBar::sub-line:vertical {
     margin: 3px 0px 3px 0px;
-    border-image: url(:/qss_icons/dark/up_arrow_disabled.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/up_arrow.png);
+    height: 8px;
+    width: 11px;
     subcontrol-position: top;
     subcontrol-origin: margin;
 }
 
 QScrollBar::add-line:vertical {
     margin: 3px 0px 3px 0px;
-    border-image: url(:/qss_icons/dark/down_arrow_disabled.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/down_arrow.png);
+    height: 8px;
+    width: 11px;
     subcontrol-position: bottom;
     subcontrol-origin: margin;
 }
 
 QScrollBar::sub-line:vertical:hover,
 QScrollBar::sub-line:vertical:on {
-    border-image: url(:/qss_icons/dark/up_arrow.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/up_arrow-on.png);
+    height: 8px;
+    width: 11px;
     subcontrol-position: top;
     subcontrol-origin: margin;
 }
 
 QScrollBar::add-line:vertical:hover,
 QScrollBar::add-line:vertical:on {
-    border-image: url(:/qss_icons/dark/down_arrow.png);
-    height: 10px;
-    width: 10px;
+    border-image: url(:/qss_icons/dark/down_arrow-on.png);
+    height: 8px;
+    width: 11px;
     subcontrol-position: bottom;
     subcontrol-origin: margin;
 }
@@ -431,7 +436,6 @@ QTextEdit {
 
 QPlainTextEdit {
     background-color: #232629;
-    ;
     color: #eff0f1;
     border-radius: 2px;
     border: 1px solid #76797C;

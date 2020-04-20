@@ -15,12 +15,16 @@
     <file>dark/close-hover.png</file>
     <file>dark/close-pressed.png</file>
     <file>dark/down_arrow.png</file>
+    <file>dark/down_arrow-on.png</file>
     <file>dark/Vmovetoolbar.png</file>
     <file>dark/left_arrow.png</file>
+    <file>dark/left_arrow-on.png</file>
     <file>dark/stylesheet-branch-more.png</file>
     <file>dark/stylesheet-branch-more2.png</file>
     <file>dark/up_arrow.png</file>
+    <file>dark/up_arrow-on.png</file>
     <file>dark/right_arrow.png</file>
+    <file>dark/right_arrow-on.png</file>
     <file>dark/left_arrow_disabled.png</file>
     <file>dark/Hsepartoolbar.png</file>
     <file>dark/branch_open.png</file>
@@ -56,12 +60,16 @@
     <file>light/close-hover.png</file>
     <file>light/close-pressed.png</file>
     <file>light/down_arrow.png</file>
+    <file>light/down_arrow-on.png</file>
     <file>light/Vmovetoolbar.png</file>
     <file>light/left_arrow.png</file>
+    <file>light/left_arrow-on.png</file>
     <file>light/stylesheet-branch-more.png</file>
     <file>light/stylesheet-branch-more2.png</file>
     <file>light/up_arrow.png</file>
+    <file>light/up_arrow-on.png</file>
     <file>light/right_arrow.png</file>
+    <file>light/right_arrow-on.png</file>
     <file>light/left_arrow_disabled.png</file>
     <file>light/Hsepartoolbar.png</file>
     <file>light/branch_open.png</file>
