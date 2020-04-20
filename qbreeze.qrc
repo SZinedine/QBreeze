@@ -3,6 +3,7 @@
     <file>dark/up_arrow_disabled.png</file>
     <file>dark/Hmovetoolbar.png</file>
     <file>dark/stylesheet-branch-end.png</file>
+    <file>dark/stylesheet-branch-end2.png</file>
     <file>dark/branch_closed-on.png</file>
     <file>dark/stylesheet-vline.png</file>
     <file>dark/branch_closed.png</file>
@@ -17,6 +18,7 @@
     <file>dark/Vmovetoolbar.png</file>
     <file>dark/left_arrow.png</file>
     <file>dark/stylesheet-branch-more.png</file>
+    <file>dark/stylesheet-branch-more2.png</file>
     <file>dark/up_arrow.png</file>
     <file>dark/right_arrow.png</file>
     <file>dark/left_arrow_disabled.png</file>
@@ -42,6 +44,7 @@
     <file>light/up_arrow_disabled.png</file>
     <file>light/Hmovetoolbar.png</file>
     <file>light/stylesheet-branch-end.png</file>
+    <file>light/stylesheet-branch-end2.png</file>
     <file>light/branch_closed-on.png</file>
     <file>light/stylesheet-vline.png</file>
     <file>light/branch_closed.png</file>
@@ -56,6 +59,7 @@
     <file>light/Vmovetoolbar.png</file>
     <file>light/left_arrow.png</file>
     <file>light/stylesheet-branch-more.png</file>
+    <file>light/stylesheet-branch-more2.png</file>
     <file>light/up_arrow.png</file>
     <file>light/right_arrow.png</file>
     <file>light/left_arrow_disabled.png</file>
