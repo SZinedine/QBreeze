@@ -704,7 +704,7 @@ QTabBar::tab:top {
     color: #232627;
     border: 1px solid #BCBEBF;
     border-bottom: 1px transparent black;
-    background-color: #eff0f1;
+    background-color: #CDCFD0;
     padding: 5px;
     min-width: 50px;
     border-top-left-radius: 2px;
@@ -713,9 +713,9 @@ QTabBar::tab:top {
 
 QTabBar::tab:top:selected {
     color: #232627;
-    background-color: #54575B;
+    background-color: #EFF0F1;
     border: 1px solid #BCBEBF;
-    border-bottom: 2px solid #3daee9;
+    border-bottom: 1px solid #3daee9;
     border-top-left-radius: 2px;
     border-top-right-radius: 2px;
 }
@@ -731,7 +731,7 @@ QTabBar::tab:bottom {
     color: #232627;
     border: 1px solid #BCBEBF;
     border-top: 1px transparent black;
-    background-color: #eff0f1;
+    background-color: #CDCFD0;
     padding: 5px;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
@@ -740,7 +740,7 @@ QTabBar::tab:bottom {
 
 QTabBar::tab:bottom:selected {
     color: #232627;
-    background-color: #54575B;
+    background-color: #EFF0F1;
     border: 1px solid #BCBEBF;
     border-top: 2px solid #3daee9;
     border-bottom-left-radius: 2px;
@@ -758,7 +758,7 @@ QTabBar::tab:left {
     color: #232627;
     border: 1px solid #BCBEBF;
     border-left: 1px transparent black;
-    background-color: #eff0f1;
+    background-color: #CDCFD0;
     padding: 5px;
     border-top-right-radius: 2px;
     border-bottom-right-radius: 2px;
@@ -767,7 +767,7 @@ QTabBar::tab:left {
 
 QTabBar::tab:left:selected {
     color: #232627;
-    background-color: #54575B;
+    background-color: #EFF0F1;
     border: 1px solid #BCBEBF;
     border-left: 2px solid #3daee9;
     border-top-right-radius: 2px;
@@ -785,7 +785,7 @@ QTabBar::tab:right {
     color: #232627;
     border: 1px solid #BCBEBF;
     border-right: 1px transparent black;
-    background-color: #eff0f1;
+    background-color: #CDCFD0;
     padding: 5px;
     border-top-left-radius: 2px;
     border-bottom-left-radius: 2px;
@@ -794,7 +794,7 @@ QTabBar::tab:right {
 
 QTabBar::tab:right:selected {
     color: #232627;
-    background-color: #54575B;
+    background-color: #EFF0F1;
     border: 1px solid #BCBEBF;
     border-right: 2px solid #3daee9;
     border-top-left-radius: 2px;
